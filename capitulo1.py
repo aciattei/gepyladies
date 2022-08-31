@@ -31,6 +31,6 @@ print('Distancia em milhas = ' + str(milhas))
 
 #1.2.3
 segundosTotais = minutos * 60 + segundos
-horas = segundosTotais/360
+horas = segundosTotais/3600
 VelocidadeMedia = milhas/horas
 print('A velocidade média é de {:.2f}'.format(VelocidadeMedia), 'milhas/h')
