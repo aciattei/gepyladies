@@ -21,4 +21,4 @@
 <br>
 <h2>📊 Status</h2>
 <p>Projeto em desenvolvimento</p>
-<p>Última atualização em 1 de setembro de 2022</p>
+<p>Última atualização em 1° de setembro de 2022</p>
